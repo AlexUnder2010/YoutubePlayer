@@ -1,0 +1,79 @@
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Auth.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Core.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Oauth2.v2.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.YouTube.v3.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\log4net.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Zlib.Portable.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\BouncyCastle.Crypto.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Auth.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Auth.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Core.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Core.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Oauth2.v2.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.Oauth2.v2.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.YouTube.v3.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Google.Apis.YouTube.v3.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\log4net.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Zlib.Portable.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.en.resources
+C:\Users\Alexandr\Desktop\you-too-bee\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Alexandr\Desktop\you-too-bee\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Alexandr\Desktop\you-too-bee\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Alexandr\Desktop\you-too-bee\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Alexandr\Desktop\you-too-bee\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Alexandr\Desktop\you-too-bee\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Alexandr\Desktop\you-too-bee\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\YouTube Player.exe.config
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\YouTube Player.exe.manifest
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\YouTube Player.application
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\YouTube Player.exe
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\YouTube Player.pdb
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\en\YouTube Player.resources.dll
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\en\YouTube Player.resources.dll
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\YouTube Player.exe.manifest
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\YouTube Player.application
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\YouTube Player.exe
+C:\Users\Alexandr\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\YouTube Player.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.en.resources
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\en\YouTube Player.resources.dll
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\YouTube Player.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\YoutubePlayer\WindowsFormsApplication4\obj\Debug\YouTube Player.pdb
